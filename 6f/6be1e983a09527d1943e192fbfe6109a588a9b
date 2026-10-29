@@ -1,0 +1,26 @@
+deploy/tauri/tauri-build.sh
+  s_109f0e8d970c50::t_36a8e9731b0dad 102-103,107-110
+  s_109f0e8d970c50::t_4ca9111bb6e1c6 60-63
+  s_109f0e8d970c50::t_a08d8f7eccefc0 94-97
+  s_109f0e8d970c50::t_7822e92dc86f1c 104
+.github/workflows/release.yml
+  s_109f0e8d970c50::t_d8734b90894ae7 1-11,16,27-36,38-39,41-69,71-72,75-76,92,95-98,100,104,106,108
+  s_109f0e8d970c50::t_f03426c6707c17 12-15,17-26,37,40,70,73-74,77-91,93-94,99,103,105,107
+  s_109f0e8d970c50::t_833ce1b2b10ce5 101-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f6be1e983a09527d1943e192fbfe6109a588a9b",
+  "prompts": {},
+  "sessions": {
+    "s_109f0e8d970c50": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b14bc17-9f17-4ab6-a4d9-a6d0071c13fa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Raul Adamuz <radamuzc@gmail.com>"
+    }
+  }
+}
