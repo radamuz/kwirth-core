@@ -1,0 +1,20 @@
+.github/workflows/release.yml
+  s_109f0e8d970c50::t_fd3b5f705c1a1d 65
+  s_109f0e8d970c50::t_6dc7e94880e0fb 53,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de6fc33312f47f2720ff23ec73524256df353cf0",
+  "prompts": {},
+  "sessions": {
+    "s_109f0e8d970c50": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b14bc17-9f17-4ab6-a4d9-a6d0071c13fa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Raul Adamuz <radamuzc@gmail.com>"
+    }
+  }
+}
